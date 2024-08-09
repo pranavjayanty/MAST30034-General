@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+pyspark
+geopandas
+folium
+pyarrow
+fastparquet
+seaborn
+scipy
+setuptools
